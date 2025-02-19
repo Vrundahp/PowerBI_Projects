@@ -27,7 +27,7 @@
 ### TreeMap
 ### Details Dashboard GridView. 
 
-### Images are given in the Repo as ,
-#### Summary.png
-#### Overview.png
-#### Details.png
+### Here is the Images of Dashboard. 
+![summary](https://github.com/Vrundahp/PowerBI_Projects/blob/main/Summary.PNG)
+![overview](https://github.com/Vrundahp/PowerBI_Projects/blob/main/OverView.PNG)
+![details](https://github.com/Vrundahp/PowerBI_Projects/blob/main/Details.PNG)
