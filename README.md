@@ -27,5 +27,7 @@
 ### TreeMap
 ### Details Dashboard GridView. 
 
-## Here is the Image of dashboards.
-![summary]()
+### Images are given in the Repo as ,
+#### Summary.png
+#### Overview.png
+#### Details.png
