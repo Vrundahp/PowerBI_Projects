@@ -26,3 +26,6 @@
 ### BarChart
 ### TreeMap
 ### Details Dashboard GridView. 
+
+## Here is the Image of dashboards.
+![summary]()
